@@ -2,6 +2,8 @@ pengeg's customized st
 THIS IS A CLONE OF DMENU WITH MY OWN CUSTOMIZATIONS
 use it if you like, don't if you don't
 
+depends on nerd-fonts-hack
+
 --------------------------------------------------
 
 st - simple terminal
